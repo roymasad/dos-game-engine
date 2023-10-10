@@ -8,7 +8,8 @@ WIP, very early stage
 Smoothly moves a spaceship over the screen with a background
 
 # Notes
-It uses Clangd, cmake and Dosbox bundle extension for Visual Studio code  (search VS store)
+It uses Dos-dev
+Clangd, cmake and Dosbox bundle extension for Visual Studio code  (search VS store)
 
 # Features
 - Game Loop
