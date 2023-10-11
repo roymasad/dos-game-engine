@@ -3,6 +3,8 @@ Dos Game Engine project
 
 WIP, very early stage
 
+![](screenshot.png)
+
 # What does it do for now ?
 
 Smoothly moves a spaceship over the screen with a background
